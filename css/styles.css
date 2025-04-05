@@ -1,0 +1,49 @@
+/* Variables */
+:root {
+    --color-grey-500: #4d4f62;
+    --color-grey-400: #6a7178;
+    --color-white: #fff;
+    --color-red: #ea5454;
+    --color-cyan: #44d3d2;
+    --color-blue: #549ef2;
+    --color-orange: #fcae4a;
+}
+
+/* CSS Reset */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Typography */
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.5rem;
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
+    line-height: 1.4;
+    letter-spacing: 0;
+    color: var(--color-grey-400);
+}
+
+/* Hero */
+.hero__heading {
+    font-size: 2.4rem;
+    font-weight: 200;
+    letter-spacing: 0.25px;
+    color: var(--color-grey-500);
+}
+
+.hero__heading--semibold {
+    font-weight: 600;
+}
+
+/* Features-block */
+.feature__heading {
+    color: var(--color-grey-500);
+}
