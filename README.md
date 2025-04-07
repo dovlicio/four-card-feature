@@ -19,7 +19,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Live Site URL: [Solution online](https://dovlicio.github.io/social-links-profile-component/)
+- Live Site URL: [Solution online](https://dovlicio.github.io/four-card-feature/)
 
 ## My process
 
